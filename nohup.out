@@ -1,0 +1,21 @@
+Can not connect 
+Use of uninitialized value $\ in concatenation (.) or string at ./tcp_server.pl line 37.
+Can not connect !n at ./tcp_server.pl line 37.
+Listening for connections on 1337 
+[Client: 44593] hello
+[Client: 44593] I am here
+[Client: 44593] dsdsds
+[Client: 44593] asdasdas
+Use of uninitialized value $\ in concatenation (.) or string at ./tcp_server.pl line 38.
+Can not connect !n at ./tcp_server.pl line 38.
+Listening for connections on 1337 
+[Client: 44603] hello
+I am still hear .....
+[Client: 44603] fff
+I am still hear .....
+[Client: 44603] 
+I am still hear .....
+[Client: 44603] lklllk
+I am still hear .....
+[Client: 44603] dsfsdfsdffds
+I am still hear .....
