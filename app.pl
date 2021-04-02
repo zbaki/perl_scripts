@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+#kha 
 
 #use lib '/home/baki/perl_lib';
 
